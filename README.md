@@ -1,10 +1,10 @@
 # CPE010 - Data Structures and Algorithms
 CPE010 Portfolio <br>
-<hr>
 Academic Year A.Y. 2026-2027 <br>
 Ramelissa Melith V. Limpio <br>
 <hr>
-<h1>Topics</h1>
+
+<h1 align="center">Topics</h1>
 <h2 align="center">Prelims</h2><br>
 <ul>
   <li><a href="https://github.com/Limpiocpe/CPE010/tree/main/Prelims/HOA1p1">Basic C++ Programming</a></li>
