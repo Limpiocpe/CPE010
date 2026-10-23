@@ -2,7 +2,6 @@
 CPE010 Portfolio <br>
 Academic Year A.Y. 2026-2027 <br>
 Ramelissa Melith V. Limpio <br>
-<hr>
 
 <h1 align="center">Topics</h1>
 <h2 align="center">Prelims</h2><br>
