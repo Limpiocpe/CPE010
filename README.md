@@ -1,4 +1,4 @@
-# CPE010
+# CPE010 - Data Structures and Algorithms
 CPE010 Portfolio <br>
 
 
