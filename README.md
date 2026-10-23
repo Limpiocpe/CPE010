@@ -7,7 +7,7 @@ Ramelissa Melith V. Limpio <br>
 
 
 <h1 align="center">Topics</h1>
-<h2 align="center">Prelims</h2><br>
+<h2 align="center">Prelim</h2><br>
 
 <ul>
 
